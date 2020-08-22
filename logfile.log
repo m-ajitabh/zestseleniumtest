@@ -1,0 +1,5 @@
+2020-08-22 18:27:57,426 INFO  [Log] Amazon search flow started 
+2020-08-22 18:28:00,300 INFO  [Log] Amazon - got the product index: -1 
+2020-08-22 18:28:02,331 INFO  [Log] Search Flow started 
+2020-08-22 18:28:03,341 INFO  [Log] Flipkart - got the product index: 0 
+2020-08-22 18:28:03,377 INFO  [Log] Flipkart - got the product price: 45999.0 

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14836" started-at="2020-08-22T18:27:48 IST" finished-at="2020-08-22T18:28:03 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14836" started-at="2020-08-22T18:27:48 IST" finished-at="2020-08-22T18:28:03 IST">
+      <class name="com.aj.test.ProductPriceComparisionTest">
+        <test-method status="PASS" signature="getURL()[pri:0, instance:com.aj.test.ProductPriceComparisionTest@1f57539]" name="getURL" is-config="true" duration-ms="10" started-at="2020-08-22T18:27:48 IST" finished-at="2020-08-22T18:27:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getURL -->
+        <test-method status="PASS" signature="launchWebDriver()[pri:0, instance:com.aj.test.ProductPriceComparisionTest@1f57539]" name="launchWebDriver" is-config="true" duration-ms="6336" started-at="2020-08-22T18:27:48 IST" finished-at="2020-08-22T18:27:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchWebDriver -->
+        <test-method status="PASS" signature="test001(java.lang.String)[pri:0, instance:com.aj.test.ProductPriceComparisionTest@1f57539]" name="test001" duration-ms="5185" started-at="2020-08-22T18:27:55 IST" data-provider="SearchProvider" finished-at="2020-08-22T18:28:00 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Apple iPhone XR (64GB) - Yellow]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test001 -->
+        <test-method status="PASS" signature="test002(java.lang.String)[pri:0, instance:com.aj.test.ProductPriceComparisionTest@1f57539]" name="test002" duration-ms="3048" started-at="2020-08-22T18:28:00 IST" data-provider="SearchProvider" finished-at="2020-08-22T18:28:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Apple iPhone XR (64GB) - Yellow]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test002 -->
+        <test-method status="PASS" signature="results()[pri:0, instance:com.aj.test.ProductPriceComparisionTest@1f57539]" name="results" is-config="true" duration-ms="1" started-at="2020-08-22T18:28:03 IST" finished-at="2020-08-22T18:28:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- results -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.aj.test.ProductPriceComparisionTest@1f57539]" name="quit" is-config="true" duration-ms="203" started-at="2020-08-22T18:28:03 IST" depends-on-methods="com.aj.test.ProductPriceComparisionTest.results" finished-at="2020-08-22T18:28:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.aj.test.ProductPriceComparisionTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
